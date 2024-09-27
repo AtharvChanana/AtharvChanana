@@ -10,7 +10,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 - **[War Card Game](https://github.com/AtharvChanana/card-game-war-python)**: A simple implementation of the War card game in Python.
 - **[Random Number Guessing](https://github.com/AtharvChanana/C-project.git)**: Guessing random number game made using C.
 
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning
 - Advanced React
 - Backend development (APIs, databases) 
 
