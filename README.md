@@ -2,7 +2,7 @@
 I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. I love creating new projects and learning new skills day by day.
 
 ## 🚀 Skills & Technologies 
-- **Programming Languages:** Python, C, JavaScript, HTML, CSS
+- **Programming Languages:** Python, C, JavaScript, HTML, CSS 
 - **Frameworks:** React.js, Tailwind CSS
 - **Tools & Technologies:** Git, GitHub, VS Code
 
