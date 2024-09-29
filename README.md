@@ -12,7 +12,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 
 ## 🌱 I’m currently learning
 - Advanced React
-- Backend development (APIs, databases)  
+- Backend development (APIs, databases)   
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvchanana) 
