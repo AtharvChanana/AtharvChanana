@@ -4,7 +4,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 ## 🚀 Skills & Technologies 
 - **Programming Languages:** Python, C, JavaScript, HTML, CSS 
 - **Frameworks:** React.js, Tailwind CSS
-- **Tools & Technologies:** Git, GitHub, VS Code
+- **Tools & Technologies:** Git, GitHub, VS Code 
 
 ## 📚 Projects  
 - **[War Card Game](https://github.com/AtharvChanana/card-game-war-python)**: A simple implementation of the War card game in Python.
