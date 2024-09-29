@@ -1,18 +1,18 @@
 # Hi there! 👋
 I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. I love creating new projects and learning new skills day by day.
 
-## 🚀 Skills & Technologies  
+## 🚀 Skills & Technologies
 - **Programming Languages:** Python, C, JavaScript, HTML, CSS 
 - **Frameworks:** React.js, Tailwind CSS
-- **Tools & Technologies:** Git, GitHub, VS Code 
+- **Tools & Technologies:** Git, GitHub, VS Code
 
-## 📚 Projects  
+## 📚 Projects
 - **[War Card Game](https://github.com/AtharvChanana/card-game-war-python)**: A simple implementation of the War card game in Python.
 - **[Random Number Guessing](https://github.com/AtharvChanana/C-project.git)**: Guessing random number game made using C.
 
 ## 🌱 I’m currently learning
 - Advanced React
-- Backend development (APIs, databases)   
+- Backend development (APIs, databases)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvchanana) 
