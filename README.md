@@ -10,7 +10,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 - **[War Card Game](https://github.com/AtharvChanana/card-game-war-python)**: A simple implementation of the War card game in Python.
 - **[Random Number Guessing](https://github.com/AtharvChanana/C-project.git)**: Guessing random number game made using C.
 - **[React Clock](https://github.com/AtharvChanana/C-project.git)**: Clock made using React.
-- **[React Calculator](https://github.com/AtharvChanana/C-project.git)**: Calculator made using React.
+- **[React Calculator](https://github.com/AtharvChanana/React-Calculator.git)**: Calculator made using React.
 
 ## 🌱 I’m currently learning
 - Advanced React
