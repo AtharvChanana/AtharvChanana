@@ -6,7 +6,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 - **Frameworks:** React.js, Tailwind CSS
 - **Tools & Technologies:** Git, GitHub, VS Code
 
-## 📚 Projects
+## 📚 Projects 
 - **[React Todo List](https://github.com/AtharvChanana/react-Todo-list.git)**: A Todo list application made using React.
 - **[War Card Game](https://github.com/AtharvChanana/card-game-war-python)**: A simple implementation of the War card game in Python.
 - **[Random Number Guessing](https://github.com/AtharvChanana/C-project.git)**: Guessing random number game made using C.
