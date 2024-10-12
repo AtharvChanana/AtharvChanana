@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋   
 I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. I love creating new projects and learning new skills day by day.
 
 ## 🚀 Skills & Technologies
