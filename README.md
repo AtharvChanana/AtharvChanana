@@ -14,7 +14,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 - **[React Calculator](https://github.com/AtharvChanana/React-Calculator.git)**: Calculator made using React.
 
 ## 🌱 I’m currently learning
-- Advanced React
+- Advanced React 
 - Backend development (APIs, databases)
 
 ## 🌐 Socials:
