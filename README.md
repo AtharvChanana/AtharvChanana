@@ -3,8 +3,9 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 
 ## 🚀 Skills & Technologies
 - **Programming Languages:** Python, C, JavaScript, HTML, CSS 
-- **Frameworks:** React.js, Tailwind CSS
+- **Frameworks:** React.js, Tailwind CSS, Express.js
 - **Tools & Technologies:** Git, GitHub, VS Code
+- **DataBases:** MongoDB
 
 ## 📚 Projects 
 - **[React Todo List](https://github.com/AtharvChanana/react-Todo-list.git)**: A Todo list application made using React.
