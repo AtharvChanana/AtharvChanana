@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **atharvchanana@gmail.com**
 
-- 📫 LinkedIn -> **www.linkedin.com/in/atharvchanana**
+- 📫 LinkedIn -> **<a href='www.linkedin.com/in/atharvchanana'>LinkedIn</a>**
 
 
 </h3>
