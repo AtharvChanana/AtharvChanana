@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **atharvchanana@gmail.com**
 
-- 📫 You can also connect with me on **<a href='https://www.linkedin.com/in/atharvchanana'>LinkedIn</a>**
+- You can also connect with me on **<a href='https://www.linkedin.com/in/atharvchanana'>LinkedIn</a>**
 
 
 </h3>
