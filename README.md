@@ -1,6 +1,19 @@
 # Hi there! 👋
-I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. Currently I'm focusing on MERN Stack Development. I love creating new projects and learning new skills day by day.
-![GIF](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
+<table>
+  <tr>
+    <td>
+      <h3>About Me</h3>
+      <p>
+        I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. Currently I'm focusing on MERN Stack Development. I love creating new projects and learning new skills day by day.
+      </p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Skills & Technologies
 - **Programming Languages:** Python, C, JavaScript, HTML, CSS 
