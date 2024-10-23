@@ -1,3 +1,37 @@
+<h1 align="center">Hi 👋, I'm Atharv Chanana</h1>
+
+
+
+
+
+<img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
+
+ 
+  
+
+## *About Me:*
+
+<h3>
+
+- 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
+
+- 🤝 I’m looking for help with [Arcade Helper](https://arcadehelper.tech/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/kushal34712](https://github.com/kushal34712)
+
+- 💻 I am Video Editior at [Btecky Youtube](https://www.youtube.com/@btecky)
+
+- 💬 Ask me about HTML, CSS, Javascript
+
+- 📫 How to reach me **kushalag347@gmail.com**
+
+</h3>
+
+
+
+
+
+
 # Hi there! 👋
 
 <table>
