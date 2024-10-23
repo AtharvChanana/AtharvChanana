@@ -1,45 +1,19 @@
 <h1 align="center">Hi 👋, I'm Atharv Chanana</h1>
 
-
-
-
-
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
-
- 
-  
 
 ## *About Me:*
 
 <h3>
+- 📚 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science
 
 - 🔭 I’m currently working on MERN Stack Development
 
+- 🚀 I love creating new projects and advancing my skills day by day.
+  
 - 📫 How to reach me **atharvchanana@gmail.com**
 
 </h3>
-
-
-
-
-
-
-# Hi there! 👋
-
-<table>
-  <tr>
-    <td>
-      <h3><strong>About Me</strong></h3>
-      <p>
-        I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. Currently I'm focusing on MERN Stack Development. I love creating new projects and learning new skills day by day.
-      </p>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-    </td>
-  </tr>
-</table>
-
 
 ## 🚀 Skills & Technologies
 - **Programming Languages:** Python, C, JavaScript, HTML, CSS 
