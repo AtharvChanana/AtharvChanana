@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3>About Me</h3>
+      <h3><strong>About Me</strong></h3>
       <p>
         I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data Science. Currently I'm focusing on MERN Stack Development. I love creating new projects and learning new skills day by day.
       </p>
