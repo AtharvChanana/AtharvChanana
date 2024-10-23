@@ -55,5 +55,5 @@
 [![](https://visitcount.itsvg.in/api?id=Atharvv-1&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!;+Connect+me+on+Linkedin!;I'm+always+ready+to+collab!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!;+Connect+with+me+on+LinkedIn!;I'm+Always+ready+to+collab!">
 </h3>
