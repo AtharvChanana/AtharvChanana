@@ -13,17 +13,9 @@
 
 <h3>
 
-- 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
+- 🔭 I’m currently working on MERN Stack Development
 
-- 🤝 I’m looking for help with [Arcade Helper](https://arcadehelper.tech/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/kushal34712](https://github.com/kushal34712)
-
-- 💻 I am Video Editior at [Btecky Youtube](https://www.youtube.com/@btecky)
-
-- 💬 Ask me about HTML, CSS, Javascript
-
-- 📫 How to reach me **kushalag347@gmail.com**
+- 📫 How to reach me **atharvchanana@gmail.com**
 
 </h3>
 
