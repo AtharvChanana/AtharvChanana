@@ -6,7 +6,7 @@ I'm Atharv, a B.Tech 2nd-year student pursuing Artificial Intelligence and Data 
 - **Frameworks:** React.js, Tailwind CSS, Express.js
 - **Tools & Technologies:** Git, GitHub, VS Code
 - **DataBases:** MongoDB
-
+- 
 ## 📚 Projects 
 - **[React Todo List](https://github.com/AtharvChanana/react-Todo-list.git)**: A Todo list application made using React.
 - **[Random Number Guessing](https://github.com/AtharvChanana/C-project.git)**: Guessing random number game made using C.
