@@ -20,7 +20,7 @@
 </h3>
 
 ## 🚀 Skills & Technologies
-- **Programming Languages:** Python, C, JavaScript, HTML, CSS 
+- **Programming Languages:** Python, C, JavaScript, HTML, CSS, NodeJS
 - **Frameworks:** React.js, Tailwind CSS, Express.js
 - **Tools & Technologies:** Git, GitHub, VS Code
 - **DataBases:** MongoDB
