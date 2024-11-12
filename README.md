@@ -8,7 +8,7 @@
   
 - 📚 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science
 
-- 🔭 I’m currently working on MERN Stack Development
+- 🔭 I’m currently working on MERN Stack Development.
 
 - 🚀 I love creating new projects and advancing my skills day by day.
   
