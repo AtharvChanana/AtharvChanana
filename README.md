@@ -1,54 +1,114 @@
-<h1 align="center">Hi, I'm Atharv Chanana</h1>
+<div align="center">
 
-<img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Atharv%20Chanana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20actually%20work&descAlignY=58&descSize=18&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-## *About Me:*
+</div>
 
-<h3>
-  
-- I'm currently pursuing B.Tech in Artificial Intelligence and Data Science.
+<div align="center">
 
-- Currently Advancing my skills in Data Structures and Algorithms.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Spring+Boot+%2B+Next.js+%2B+PostgreSQL+%2B+AI;turning+half-baked+ideas+into+deployed+products;500%2B+DSA+problems+%E2%80%94+and+counting)](https://git.io/typing-svg)
 
-- I love creating new projects and advancing my skills day by day.
-  
-- How to reach me **atharvchanana@gmail.com**
-
-- You can also connect with me on **<a href='https://www.linkedin.com/in/atharvchanana'>LinkedIn</a>**
-
-
-</h3>
-
-## Skills & Technologies
-- **Programming Languages:** Java, NodeJs, Python
-- **Frameworks:** React.js, Tailwind CSS, Express.js
-- **Tools & Technologies:** Git, GitHub, VS Code
-- **DataBases:** MongoDB
-
-## Projects 
-- **[findMyCamp](https://github.com/AtharvChanana/findMyCamp.git)**: A camp finder application which helps you to find nearby camps.
-
-## I’m currently learning
-- Java programming
-- Data Structures and Algorithm
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvchanana) 
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharvChanana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvChanana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvChanana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtharvChanana&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atharvv-1&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!;+Connect+with+me+on+LinkedIn!;I'm+Always+ready+to+collab!">
-</h3>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AtharvChanana-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AtharvChanana)
+[![GitHub](https://img.shields.io/badge/GitHub-AtharvChanana-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvChanana)
+[![Intervue](https://img.shields.io/badge/🎯_Intervue-Live-10B981?style=flat-square)](https://intervue-sepia.vercel.app)
+[![BondIQ](https://img.shields.io/badge/🧠_BondIQ-Live-8B5CF6?style=flat-square)](https://bondiq-liard.vercel.app)
+
+</div>
+
+<br/>
+
+```java
+public class Atharv {
+
+    String[] currently    = { "3rd year B.Tech @ VIPS, New Delhi" };
+    String[] building     = { "AI-integrated full-stack products" };
+    String[] stack        = { "Spring Boot", "Next.js", "PostgreSQL", "Supabase" };
+    String[] ai           = { "Gemini", "Groq / LLaMA 3", "RAG pipelines" };
+    String[] target       = { "SDE roles — 2027 placements" };
+    int      dsaSolved    = 500; // and counting
+
+    void whyMe() {
+        System.out.println("I ship. Not just code — actual deployed products.");
+    }
+}
+```
+
+<br/>
+
+## ⚡ what i've shipped
+
+<div align="center">
+
+| project | what it does | stack | live |
+|---|---|---|---|
+| **Intervue** | AI mock interview platform with real-time feedback, leaderboards, and resume parsing | Spring Boot · Next.js · PostgreSQL · Gemini · Groq | [→ live](https://intervue-sepia.vercel.app) |
+| **BondIQ** | relationship memory platform — tracks context about people in your life, surfaces it when you need it | Next.js 14 · Supabase · Prisma · Gemini embeddings | [→ live](https://bondiq-liard.vercel.app) |
+| **Pathfinding Visualizer** | BFS, DFS, Dijkstra, A* — watch algorithms think in real time through dynamic mazes | React 18 · TypeScript · Express.js · Radix UI | WIP |
+
+</div>
+
+<br/>
+
+## 🛠 how i build
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+
+</div>
+
+<br/>
+
+## 📊 github at a glance
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AtharvChanana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=4F46E5&text_color=c4b5fd&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvChanana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=c4b5fd&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvChanana&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=4F46E5&fire=7C3AED&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6B7280" width="60%" />
+
+</div>
+
+<br/>
+
+## 🧩 beyond the code
+
+```
+📍  New Delhi              currently: 3rd year, building toward 2027 placements
+🏋️  fitness               body recomp — progressive overload, tracked
+🧠  500+ DSA problems     not a grinder, just consistent
+🚀  shipped 2 internships  Tigest (AI dev) · Meshery (frontend)
+☕  debugging fuel        chai > coffee, always
+```
+
+<br/>
+
+<div align="center">
+
+> *"I don't just build for the portfolio. I build until it's deployed, working, and something I'd actually use."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
