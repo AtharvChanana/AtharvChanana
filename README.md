@@ -95,10 +95,8 @@ public class Atharv {
 
 ```
 📍  New Delhi              currently: 3rd year, building toward 2027 placements
-🏋️  fitness               body recomp — progressive overload, tracked
 🧠  500+ DSA problems     not a grinder, just consistent
 🚀  shipped 2 internships  Tigest (AI dev) · Meshery (frontend)
-☕  debugging fuel        chai > coffee, always
 ```
 
 <br/>
