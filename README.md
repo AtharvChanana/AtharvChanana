@@ -106,7 +106,4 @@ public class Atharv {
 > *"I don't just build for the portfolio. I build until it's deployed, working, and something I'd actually use."*
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=100&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
